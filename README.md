@@ -67,7 +67,7 @@ These tags are required at EC2 launch time.
 4. Attach the tag policy to your AWS account.
 
 📷 Screenshot:
-![Tag Policy Creation](./project_ss/Screenshot(106).png)
+![Tag Policy Creation](./project_ss/Screenshot(101).png)
 
 ---
 
@@ -77,12 +77,12 @@ These tags are required at EC2 launch time.
 2. Fill in details and under the **Tags** section, add all required tags.
 
 📷 Screenshot:
-![Launching EC2 with Tags](screenshots/Screenshot%20(110).png)
+![Launching EC2 with Tags](./project_ss/Screenshot(102).png)
 
 3. Launch the instance successfully.
 
 📷 Screenshot:
-![Successful Launch](screenshots/Screenshot%20(111).png)
+![Successful Launch](./project_ss/Screenshot(104).png)
 
 ---
 
@@ -92,18 +92,16 @@ These tags are required at EC2 launch time.
 2. Observe the failure or warning message indicating missing required tags.
 
 📷 Screenshot:
-![Failed Launch Without Tags](screenshots/Screenshot%20(112).png)
+![Failed Launch Without Tags](./project_ss/Screenshot(103).png)
 
 ---
 
 ## 🧪 Verification & Results
 
 - ✅ EC2 instance launches successfully **with required tags**.
-- ❌ EC2 instance launch **fails or warns** if tags are missing, proving that the tag policy is enforced.
 
-📷 Additional Screenshots:
-- ![EC2 Instance Created](screenshots/Screenshot%20(113).png)
-- ![Tag Display in EC2 Console](screenshots/Screenshot%20(114).png)
+- ![EC2 Instance Created](./project_ss/Screenshot(105).png)
+- ![Tag Display in EC2 Console](./project_ss/Screenshot(106).png)
 
 ---
 
@@ -124,15 +122,13 @@ These tags are required at EC2 launch time.
 Project_Folder/
 │
 ├── README.md
-├── report.md / report.pdf
-└── screenshots/
-    ├── Screenshot (106).png
-    ├── Screenshot (109).png
-    ├── Screenshot (110).png
-    ├── Screenshot (111).png
-    ├── Screenshot (112).png
-    ├── Screenshot (113).png
-    └── Screenshot (114).png
+└── project_ss/
+    ├── Screenshot(101).png
+    ├── Screenshot(102).png
+    ├── Screenshot(103).png
+    ├── Screenshot(104).png
+    ├── Screenshot(105).png
+    └── Screenshot(106).png
 ```
 
 ---
@@ -140,5 +136,5 @@ Project_Folder/
 ## 👤 Author
 
 **Sohel Shaikh**  
-Email: sohel@example.com  
+Email: sohelshaikh2037@gmail.com  
 Location: Pune  
