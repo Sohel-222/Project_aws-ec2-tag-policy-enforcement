@@ -67,7 +67,7 @@ These tags are required at EC2 launch time.
 4. Attach the tag policy to your AWS account.
 
 📷 Screenshot:
-![Tag Policy Creation](screenshots/Screenshot%20(106).png)
+![Tag Policy Creation](./project_ss/Screenshot(106).png)
 
 ---
 
